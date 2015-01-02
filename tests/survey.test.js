@@ -1,15 +1,15 @@
 describe("survey", function() {
     beforeEach(function(){
-        spyOn(survey, 'score').and.callThrough();
+        spyOn(Survey, 'score').and.callThrough();
     });
 
     afterEach(function() {
     });
 
     it("survey:score exists", function() {
-        console.log(survey);
-        expect(survey.score).toBeDefined();
-        survey.score();
-        expect(survey.score).toHaveBeenCalled();
+        console.log(Survey);
+        expect(Survey.score).toBeDefined();
+        Survey.score();
+        expect(Survey.score).toHaveBeenCalled();
     });
 });
