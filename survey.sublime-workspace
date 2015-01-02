@@ -1,0 +1,588 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"q26b",
+				"q26b"
+			],
+			[
+				"q26a",
+				"Q26a"
+			],
+			[
+				"q16b",
+				"q16b"
+			],
+			[
+				"sele",
+				"selectedOption"
+			],
+			[
+				"curBc",
+				"curBcProbTuple"
+			],
+			[
+				"cur",
+				"curBcProbName"
+			],
+			[
+				"curBcpr",
+				"curBcProbNum"
+			],
+			[
+				"p",
+				"p"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"brow",
+				"View In Browser"
+			],
+			[
+				"vi",
+				"View In Browser"
+			],
+			[
+				"browser",
+				"View In Browser"
+			],
+			[
+				"git",
+				"Git: Diff All Files"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inde",
+				"IndentX: Indent"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"IndentX: Indent"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"camel",
+				"Convert Case: camelCase"
+			],
+			[
+				"case",
+				"Convert Case: camelCase"
+			],
+			[
+				"ind",
+				"IndentX: Indent"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"indent",
+				"IndentX: Indent"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"orig",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"Package Control: remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"high",
+				"SublimeHighlight: convert to HTML"
+			],
+			[
+				"subli",
+				"SublimeHighlight: convert to HTML"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Create Binary Package File"
+			],
+			[
+				"Snippet: fun",
+				"Snippet: function"
+			]
+		],
+		"width": 544.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/john.jesus/git/survey",
+		"/C/Users/john.jesus/git/survey/karma_html/Chrome 39.0.2171 (Windows 7)",
+		"/C/Users/john.jesus/git/survey/karma_html/PhantomJS 1.9.8 (Windows 7)",
+		"/C/Users/john.jesus/git/survey/lib",
+		"/C/Users/john.jesus/git/survey/tests"
+	],
+	"file_history":
+	[
+		"/C/Users/john.jesus/git/survey/lib/object.js",
+		"/C/Users/john.jesus/git/survey/tests/object.test.js",
+		"/C/Users/john.jesus/git/survey/README.txt",
+		"/C/Users/john.jesus/git/survey/karma.conf.js",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/question.service.js",
+		"/C/Users/john.jesus/git/survey/.gitignore",
+		"/C/Users/john.jesus/git/karma_simple/js/tests/object.test.js",
+		"/C/Users/john.jesus/git/WhichMethod/tests/unit/sections.controller.debug.spec.coffee",
+		"/C/Users/john.jesus/git/WhichMethod/karma.conf.js",
+		"/C/Users/john.jesus/git/WhichMethod/package.json",
+		"/C/Users/john.jesus/git/survey/package.json",
+		"/C/Users/john.jesus/git/survey/app/object.js",
+		"/C/Users/john.jesus/git/survey/js/tests/object.test.js",
+		"/c/Users/john.jesus/git/karma_simple/js/object.js",
+		"/C/Users/john.jesus/bin/winmerge.sh",
+		"/C/Users/john.jesus/Documents/My Dropbox/Home/JohnTessa.txt",
+		"/C/Users/john.jesus/git/karma_simple/karma.conf.js",
+		"/C/Users/john.jesus/git/karma_simple/js/object.js",
+		"/C/Users/john.jesus/git/karma_simple/tests/object.test.js",
+		"/C/Users/john.jesus/git/karma_simple/terminal.glue",
+		"/C/Users/john.jesus/git/karma_simple/README.txt",
+		"/C/Users/john.jesus/git/karma_simple/.gitignore",
+		"/C/Users/john.jesus/.gitconfig",
+		"/C/Users/john.jesus/bin/winmerge.bat",
+		"/C/Users/john.jesus/junk1.txt",
+		"/C/Users/john.jesus/junk2.txt",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/questions/section07.jade",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/rankhelp.jade",
+		"/C/Users/john.jesus/git/WhichMethod/.tmp/app/sections/questions/section07.html",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/john.jesus/git/node/hello-console.js",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/sections.controller.js",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/questions/section01.jade",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/questions/section06.jade",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/questions/section03.jade",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/questions/section05.jade",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/questions/section04.jade",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/questions/section02.jade",
+		"/C/Users/john.jesus/git/WhichMethod/tests/unit/sections.controller.spec.coffee.DISABLED",
+		"/C/Users/john.jesus/git/WhichMethod/.tmp/app/sections/questions/section01.html",
+		"/c/Users/john.jesus/git/WhichMethod/client/app/sections/question.service.js",
+		"/c/Users/john.jesus/git/WhichMethod/tests/unit/sections.controller.spec.coffee",
+		"/c/Users/john.jesus/git/WhichMethod/client/app/sections/questions/section01.jade",
+		"/C/Users/john.jesus/git/WhichMethod/~/.gitconfig",
+		"/c/Users/john.jesus/git/WhichMethod/client/app/sections/sections.controller.js",
+		"/c/Users/john.jesus/git/WhichMethod/client/app/sections/questions/section07.jade",
+		"/C/Users/john.jesus/Downloads/test.jade",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Installed Packages/Jade.sublime-package",
+		"/c/Users/john.jesus/git/WhichMethod/.bash_profile",
+		"/c/Users/john.jesus/git/WhichMethod/.bash_profile.save",
+		"/c/Users/john.jesus/git/WhichMethod/Gruntfile.js",
+		"/c/Users/john.jesus/git/WhichMethod/node_modules/grunt-protractor-runner/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/scrolling_tests/page_with_frame_out_of_view.html",
+		"/c/Users/john.jesus/git/WhichMethod/node_modules/karma-html-reporter/node_modules/mu2/test/examples/reuse_of_enumerables.html",
+		"/c/Users/john.jesus/git/WhichMethod/node_modules/karma-html-reporter/node_modules/mu2/test/examples/hash_instead_of_array.html",
+		"/c/Users/john.jesus/git/WhichMethod/node_modules/grunt-svgmin/node_modules/svgo/plugins/transformsWithOnePath.js",
+		"/c/Users/john.jesus/git/WhichMethod/node_modules/grunt-contrib-cssmin/node_modules/clean-css/lib/properties/shorthand-notations.js",
+		"/c/Users/john.jesus/git/WhichMethod/node_modules/grunt-ng-annotate/node_modules/ng-annotate/node_modules/ordered-ast-traverse/ordered-ast-traverse.js",
+		"/c/Users/john.jesus/git/WhichMethod/node_modules/grunt-google-cdn/node_modules/bower/node_modules/insight/node_modules/os-name/node_modules/.bin/osx-release",
+		"/c/Users/john.jesus/git/WhichMethod/node_modules/grunt-contrib-clean/docs/overview.md",
+		"/C/Users/john.jesus/Copy/WWC/WhicMethod/2014-12-21.txt",
+		"/C/Users/john.jesus/Copy/WWC/WhicMethod/2014-11-09.txt",
+		"/C/Users/john.jesus/git/WhichMethod/tests/unit/sections.controller.spec.coffee",
+		"/C/Users/john.jesus/git/WhichMethod/.tmp/app/sections/questions/section03.html",
+		"/C/Users/john.jesus/git/WhichMethod/karma_html/diffs.jade",
+		"/C/Users/john.jesus/git/WhichMethod/Gruntfile.js",
+		"/C/Users/john.jesus/Downloads/cmder/Readme.md",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/john.jesus/git/WhichMethod/.tmp/app/sections/sections.html",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/intropages/intro3.jade",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/sections.js",
+		"/C/Users/john.jesus/git/WhichMethod/client/app/sections/sections.jade",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/Origami/Default (Windows).sublime-keymap",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/Glue/Glue.sublime-settings",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/C/Users/john.jesus/git/WhichMethod/e2e/main/main.spec.js",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/Highlight/README.md",
+		"/C/Users/john.jesus/Copy/Courseware/SampleFiles/doc5.html",
+		"/C/Users/john.jesus/Copy/Courseware/SampleFiles/style5.css",
+		"/C/Users/john.jesus/Copy/Courseware/SampleFiles/script5.js",
+		"/C/Users/john.jesus/Documents/git/first_project/.git/COMMIT_EDITMSG",
+		"/C/Users/john.jesus/tmp/civicamel/.git/COMMIT_EDITMSG",
+		"/c/Users/john.jesus/git/WhichMethod/client/app/sections/questions/section04.jade",
+		"/c/Users/john.jesus/Documents/git/first_project/index.html",
+		"/C/Users/john.jesus/Documents/git/first_project/.git/TAG_EDITMSG",
+		"/c/Users/john.jesus/Documents/git/first_project/README.txt",
+		"/C/Users/john.jesus/Documents/My Dropbox/Home/SundaySchool/2014-09-14.txt",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/john.jesus/Documents/My Dropbox/Home/SundaySchool/2012-07-01/Mark_1_29-45.txt",
+		"/C/Users/john.jesus/Documents/My Dropbox/Home/SundaySchool/2012-06-17/2012-06-17.txt",
+		"/c/Users/john.jesus/Documents/git/first_project/README.md",
+		"/c/Users/john.jesus/Documents/git/first_project/first_file.txt",
+		"/C/Users/john.jesus/git/initializr/index.html",
+		"/C/Users/john.jesus/git/catchquiz/src/scene/gamemenu.lua",
+		"/C/Users/john.jesus/git/catchquiz/config.lua",
+		"/C/Users/john.jesus/git/catchquiz/eventConsole.lua",
+		"/C/Users/john.jesus/git/catchquiz/main.lua",
+		"/C/Users/john.jesus/git/catchquiz/src/scene/splash.lua",
+		"/C/Users/john.jesus/git/socket/src/comm.lua",
+		"/C/Users/john.jesus/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/C/Users/john.jesus/git/socket/src/inspect.lua",
+		"/C/Users/john.jesus/git/socket/src/model/msghandler.lua",
+		"/C/Users/john.jesus/git/socket/src/main.lua",
+		"/C/Users/john.jesus/git/socket/src/dump.lua"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"q54",
+			"q54e",
+			"q54",
+			"ignored",
+			"toggleCheck",
+			"57",
+			"a57",
+			"a57c",
+			"q16bi",
+			"q57a",
+			"q52",
+			"q43",
+			"if (answer",
+			"q27",
+			"q32",
+			"q32q39",
+			"q32",
+			"     li",
+			"q31",
+			"q30",
+			"q29a",
+			"q23",
+			"q28",
+			"q27",
+			"value=",
+			"radio",
+			"problems",
+			"updateranking",
+			"scope.questions",
+			"scope.ranking",
+			"ranking.",
+			"ranking",
+			"sectionEnd",
+			"ortho_evra",
+			"jshint",
+			"sel_len",
+			"jshint",
+			"ortho_evra",
+			"value=",
+			"type='radio'",
+			"radio",
+			"name",
+			"serve",
+			"when",
+			"q16",
+			"repeat",
+			"===",
+			"console.",
+			"console.log",
+			"{ name :",
+			"ranking['paragard']",
+			"ranking['mirena']",
+			"ranking['depo']",
+			"ranking['implanon']",
+			"ranking['pop']",
+			"ranking['ortho_evra']",
+			"ranking['fam']",
+			"ranking['nuvaring']",
+			"ranking['ocp']",
+			"ortho-evra",
+			"ranking[ortho_evra]",
+			"'ortho-evra'",
+			"\\\\\\",
+			"\\",
+			"change",
+			"changebg",
+			"did"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"53",
+			"    li",
+			"ng-value=",
+			"scope.gQuestions",
+			"scope.gRanking",
+			"gRanking.",
+			"orthoEvra",
+			"type='radio' name='q19ai'",
+			"type='radio' name='q19a'",
+			"type='radio' name='q19'",
+			"type='radio' name='q18ai'",
+			"type='radio' name='q18a'",
+			"type='radio' name='q18'",
+			"type='radio' name='q17'",
+			"type='radio' name='q16b'",
+			"type='radio' name='q15'",
+			"type='radio' name='q14'",
+			"type='radio' name='q24'",
+			"type='radio' name='q22'",
+			"type='radio' name='q21'",
+			"==",
+			"  case ",
+			"ranking.paragard",
+			"ranking.mirena",
+			"ranking.depo",
+			"ranking.implanon",
+			"ranking.pop",
+			"ranking.ortho_evra",
+			"ranking.fam",
+			"ranking.nuvaring",
+			"ranking.ocp",
+			"ortho_evra",
+			"ranking.ortho_evra",
+			"ortho_evra",
+			"\\\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 134.0
+	},
+	"project": "survey.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"scene",
+				"C:\\Users\\john.jesus\\git\\catchquiz\\src\\scene\\splash.lua"
+			],
+			[
+				"main.lua",
+				"C:\\Users\\john.jesus\\git\\socket\\src\\main.lua"
+			],
+			[
+				"main",
+				"C:\\Users\\john.jesus\\git\\socket\\src\\main.lua"
+			],
+			[
+				"comm.lua",
+				"C:\\Users\\john.jesus\\git\\socket\\src\\comm.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 173.0,
+		"selected_items":
+		[
+			[
+				"m",
+				"Inspector:commaControl"
+			],
+			[
+				"",
+				"sendmsgs"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
